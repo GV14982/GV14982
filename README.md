@@ -1,8 +1,8 @@
 ## Hi there I'm Graham 👋
 
 ### A bit about me:
-- Currently working in IT 💻
-- Learning all about web development 📚
+- Software Engineer at [Crowdcast](https://crowdcast.io) 💻
+- Currently learning serverless through GCP and Firebase and learning Golang 📚
 - I love making music and playing games 🎸🎮
 
 ### Connect with me:
