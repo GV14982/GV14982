@@ -1,9 +1,9 @@
 ## Hi there I'm Graham 👋
 
 ### A bit about me:
-- Software Engineer at [Crowdcast](https://crowdcast.io) 💻
-- Currently learning serverless through GCP and Firebase and learning Golang 📚
-- I love making music and playing games 🎸🎮
+- Software Engineer at [iHeartMedia](https://www.iheartmedia.com/) 💻
+- Currently learning blockchain with EVM, Solidity, and Polygon 📚
+- I love making music and building electronics (Mostly mechanical keyboards) 🎸 ⌨️
 
 ### Connect with me:
 [<img width="25px" align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
